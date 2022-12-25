@@ -1,6 +1,7 @@
 # miniBlockChain
 
-Source: All the codes and the learnings are based on the HackerNoon Article : https://hackernoon.com/learn-blockchains-by-building-one-117428612f46
+Source: All the codes and the learnings are based on the HackerNoon 
+        Article : https://hackernoon.com/learn-blockchains-by-building-one-117428612f46
 
 Objective: To learn and write the minimal version of blockchain implementation using Python
 Functionality Learned and Tested out:
